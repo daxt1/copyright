@@ -1,0 +1,28 @@
+body {	
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #ffffff;
+}
+
+form {
+	background-color: #DCDCDC;
+	height: 230px;
+	width: 350px;
+	color: silver;
+	text-align: left;
+	padding: 30px;
+	border: 1px solid silver;
+	border-radius: 10px;
+	font-family: Snell Roundhand, cursive;
+	box-shadow: 3px 7px 30px silver;
+}
+
+#shapka {
+	text-align: center;
+	padding: 0 0 20px 0;
+	font-size: 17px;
+}
